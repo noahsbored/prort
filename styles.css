@@ -110,7 +110,7 @@ footer {
 
 main p {
     color: green;
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive; /* Ensuring fallbacks */
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive; 
     text-align: center;
     padding-left: 80px;
     
