@@ -26,7 +26,7 @@ nav ul li {
 
 nav ul li a {
     color: yellow;
-    padding: 1em; /* Adjusted padding for practicality */
+    padding: 1em; 
     text-decoration: none;
     display: block;
 }
